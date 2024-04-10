@@ -1,0 +1,7 @@
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\AbstractFactory\obj\Debug\AbstractFactory.pdb
