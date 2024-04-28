@@ -5,3 +5,10 @@ C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\Desig
 C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
 C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\Adapter\obj\Debug\Adapter.exe
 C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\DesignPatternsConcepts\Adapter\obj\Debug\Adapter.pdb
+C:\Users\amanda.hass\source\repos\Projetos\DesignPatternsConcepts\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\amanda.hass\source\repos\Projetos\DesignPatternsConcepts\Adapter\bin\Debug\Adapter.exe
+C:\Users\amanda.hass\source\repos\Projetos\DesignPatternsConcepts\Adapter\bin\Debug\Adapter.pdb
+C:\Users\amanda.hass\source\repos\Projetos\DesignPatternsConcepts\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\amanda.hass\source\repos\Projetos\DesignPatternsConcepts\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\amanda.hass\source\repos\Projetos\DesignPatternsConcepts\Adapter\obj\Debug\Adapter.exe
+C:\Users\amanda.hass\source\repos\Projetos\DesignPatternsConcepts\Adapter\obj\Debug\Adapter.pdb
